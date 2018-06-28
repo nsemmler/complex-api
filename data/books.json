@@ -1,18 +1,22 @@
 {
-  "library": [
+  "data": [
     {
       "id": "b3ucnxc",
       "name": "The Great Gatsby",
       "borrowed": true,
       "description": "Rich people on Long Island in the 20s doing drugs and being weird and stuff",
-      "authors": ["F. Scott Fitzgerald"]
+      "authors": [
+        "F. Scott Fitzgerald"
+      ]
     },
     {
       "id": "m20n23n",
       "name": "Moby Dick",
       "borrowed": true,
       "description": "Man vs. whale",
-      "authors": ["Herman Melville"]
+      "authors": [
+        "Herman Melville"
+      ]
     },
     {
       "id": "jv9ji3d",
@@ -26,7 +30,9 @@
       "name": "War and Peace",
       "borrowed": false,
       "description": "zzzzzzzzzzzzz",
-      "authors": ["Leo Tolstoy"]
+      "authors": [
+        "Tolstoy"
+      ]
     }
   ]
 }

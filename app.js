@@ -8,9 +8,9 @@ const port = process.env.PORT || 5000
 if (process.env.NODE_ENV === 'development') app.use(morgan('dev'))
 app.use(bodyParser.json())
 
-const authorsRouter = require('./src/routes/authors')
+// const authorsRouter = require('./src/routes/authors')
 const booksRouter = require('./src/routes/books')
-app.use('/authors', authorsRouter)
+// app.use('/authors', authorsRouter)
 app.use('/books', booksRouter)
 
 app.use((req, res, next) => {
