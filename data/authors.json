@@ -1,0 +1,29 @@
+{
+  "writers": [
+    {
+      "id": "snvo3km",
+      "firstName": "Mark",
+      "lastName": "Twain"
+    },
+    {
+      "id": "c92n20f",
+      "firstName": "Leo",
+      "lastName": "Tolstoy"
+    },
+    {
+      "id": "vni3m04",
+      "firstName": "Herman",
+      "lastName": "Melville"
+    },
+    {
+      "id": "cmo03m92",
+      "firstName": "F. Scott",
+      "lastName": "Fitzgerald"
+    },
+    {
+      "id": "cmn2933",
+      "firstName": "William",
+      "lastName": "Shakespeare"
+    }
+  ]
+}
