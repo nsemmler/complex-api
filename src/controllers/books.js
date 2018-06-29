@@ -1,8 +1,8 @@
 const model = require('../models/book')
 
 function getAll (req, res, next) {
-  const data = model.getAll()
-  res.status(200).json({ data })
+  const books = model.getAll()
+  res.status(200).json({ books })
 }
 
 function getOne (req, res, next) {
